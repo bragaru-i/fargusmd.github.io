@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61a90857.chunk.css",
+    "main.js": "/static/js/main.f98cc047.chunk.js",
+    "main.js.map": "/static/js/main.f98cc047.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b0b71f1d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b0b71f1d.js.map",
+    "static/css/2.4707e12a.chunk.css": "/static/css/2.4707e12a.chunk.css",
+    "static/js/2.8355bfe9.chunk.js": "/static/js/2.8355bfe9.chunk.js",
+    "static/js/2.8355bfe9.chunk.js.map": "/static/js/2.8355bfe9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.02bb257c3b043b473dbb7cdf8712ce03.js": "/precache-manifest.02bb257c3b043b473dbb7cdf8712ce03.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4707e12a.chunk.css.map": "/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.61a90857.chunk.css.map": "/static/css/main.61a90857.chunk.css.map",
+    "static/js/2.8355bfe9.chunk.js.LICENSE.txt": "/static/js/2.8355bfe9.chunk.js.LICENSE.txt",
+    "static/media/casino-api.png": "/static/media/casino-api.54ae0457.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.b07fc9e3.png",
+    "static/media/food-travel.png": "/static/media/food-travel.7f29fa4e.png",
+    "static/media/Contact.css": "/static/media/footer.8ffc6e2d.jpg",
+    "static/media/Home.css": "/static/media/my-beautiful-awesome-face.8bce280a.jpg",
+    "static/media/ls-blog.png": "/static/media/ls-blog.6baa81e9.png",
+    "static/media/s7.png": "/static/media/s7.64a3fce0.png",
+    "static/media/travel-agency.jpg": "/static/media/travel-agency.2c52760f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0b71f1d.js",
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.8355bfe9.chunk.js",
+    "static/css/main.61a90857.chunk.css",
+    "static/js/main.f98cc047.chunk.js"
+  ]
+}
